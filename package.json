@@ -1,0 +1,9 @@
+{
+  "name": "starknet-quantum",
+  "version": "1.0.0",
+  "dependencies": {
+    "ethers": "5",
+    "starknet": "^5.14.1"
+  },
+  "type": "module"
+}
